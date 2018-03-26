@@ -1,0 +1,8 @@
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\bin\Debug\ExemplosLambda.exe.config
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\bin\Debug\ExemplosLambda.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\bin\Debug\ExemplosLambda.pdb
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\bin\Debug\EntityFramework.dll
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\bin\Debug\EntityFramework.xml
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\obj\Debug\ExemplosLambda.csprojResolveAssemblyReference.cache
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\obj\Debug\ExemplosLambda.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemplosLambda\ExemplosLambda\ExemplosLambda\obj\Debug\ExemplosLambda.pdb
